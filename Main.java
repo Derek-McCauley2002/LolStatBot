@@ -12,7 +12,7 @@ import java.net.URL;
 public class Main {
     public static void main(String[] args) {
 
-        String token = "NTE1MjY4MTE0MDg3NDExNzEy.XwbJJQ.XyGEfIeiwy1Et6w0iMS7AR3B-C8";
+        String token = **;
 
         DiscordApi api = new DiscordApiBuilder().setToken(token).login().join();
 
