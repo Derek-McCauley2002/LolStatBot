@@ -22,7 +22,7 @@ public class Commands extends Main {
 
     private DiscordApi api;
     private String msg = "empty";
-    private final String RIOTAPI = "RGAPI-838186e9-3ba6-4085-9f3a-60638a7e00b5";
+    private final String RIOTAPI = **;
     private Gson gson = new Gson();
 
 
